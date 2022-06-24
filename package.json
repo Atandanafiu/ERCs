@@ -1,0 +1,14 @@
+{
+  "name": "the_ercs",
+  "version": "2.9.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanda Nafiu",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
